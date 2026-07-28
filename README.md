@@ -44,8 +44,12 @@
 
 ## Файлы
 
-Код представлен в файле Final_project.ipynb
+Final_project_classic.ipynb - первая часть кода, классические модели
 
-Основной датасет содержится в файле yahoo_news_21jul.xlsx
+BERT_fine_tuning.ipynb - вторая часть кода, дообучение трансформера
 
-Файл warodai.txt содержит большой японо-русский словарь
+yahoo_news_21jul.xlsx - основной датасет
+
+warodai.txt - большой японо-русский словарь
+
+classic_models_results.xlsx - таблица с метриками классических моделей
